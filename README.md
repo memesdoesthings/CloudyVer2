@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="https://github.com/memesdoesthings/CloudyVer2/blob/c2792f36d3c092956073f71fe259c0b469af90fe/.github/branding/in.png">
+    <img src="https://raw.githubusercontent.com/memesdoesthings/CloudyVer2/9f4c9b1adfeb9587428b34ba2634ecac347d4511/.github/branding/in.png">
     <p>uhhh idk how you found this lmao<p>
     <p>Cloudy is a web proxy heavily using the Interstellar fork credits to all of them. Anyway.. make sure to use credits if you somehow manage to find this exists!!</p>
 </div>
 
-![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
+
 
 > [!IMPORTANT]
 > If you fork this project, consider giving it a star in the original repository!
@@ -24,6 +24,7 @@
 - Now.gg Support
 - Fast Speeds
 - Geforce NOW Support
+- Basically everything the same as Interstellar
 
 ## Deployment
 
@@ -134,8 +135,3 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 > [!TIP]
 > If you're having trouble, don't hesitate to reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
 
-# Credits
-
-A huge thanks goes out to all of the people who have contributed to Interstellar.
-
-[![Contributors](https://contrib.rocks/image?repo=UseInterstellar/Interstellar)](https://github.com/UseInterstellar/Interstellar/graphs/contributors)
