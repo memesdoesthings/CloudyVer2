@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
-    <p>Serving over 15 million users since 2022.<p>
-    <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
+    <img src="https://github.com/memesdoesthings/CloudyVer2/blob/c2792f36d3c092956073f71fe259c0b469af90fe/.github/branding/in.png">
+    <p>uhhh idk how you found this lmao<p>
+    <p>Cloudy is a web proxy heavily using the Interstellar fork credits to all of them. Anyway.. make sure to use credits if you somehow manage to find this exists!!</p>
 </div>
 
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
@@ -9,7 +9,7 @@
 > [!IMPORTANT]
 > If you fork this project, consider giving it a star in the original repository!
 
-**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
+
 
 ## Features
 
