@@ -33,7 +33,7 @@ img {
    padding: 0 25px;
    box-sizing: border-box;
    background-color: var(--background-nav);
-   box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.5);
+   box-shadow: 0 0 15px 2px rgba(255, 255, 255, 1);
    -webkit-backdrop-filter: var(--backdrop-filter);
    backdrop-filter: var(--backdrop-filter);
    transition: 0.35s ease;
@@ -142,7 +142,7 @@ img {
 }
 
 @media (max-width: 768px) {
-   .f-nav-right .navbar-link an {
+   .f-nav-right .navbar-linkan {
       display: none;
    }
    .f-nav-right .fa-solid {

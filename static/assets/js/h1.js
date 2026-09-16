@@ -11,7 +11,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox") && localStorage.getItem
   const popup = open("about:blank", "_blank");
   setTimeout(() => {
     if (!popup || popup.closed) {
-      alert("Please allow popups for this site. Doing so will allow us to open the site in a about:blank tab and preventing this site from showing up in your history. You can turn this off in the site settings.");
+      alert("Please allow popups for this site. Doing so will allow us to open the site in a about:blank tab and preventing this site from showing up in your history. You can turn this off in the site settings this will avoid this site being blocked! :)");
     } else {
       const doc = popup.document;
       const iframe = doc.createElement("iframe");
@@ -168,7 +168,7 @@ document.addEventListener("DOMContentLoaded", event => {
 // Splash texts
 const SplashT = [
   "Just do your work dude.",
-  "Erm Teacher!! He's using a proxy!",
+  "Erm Teacher!! They're using a proxy!",
   "Cloudy by memes. Interstellar by xBubbo",
   "EELS lowk a great doc ;)",
   "Day 18 of the lockdown, filled the dog with helium",
@@ -177,6 +177,8 @@ const SplashT = [
   "MAJOR CREDITS TO INTERSTELLAR",
   "Idk lol",
   "Super Sigma!",
+  "Use this proxy to unblock other proxys :O",
+  "How to code?"
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);

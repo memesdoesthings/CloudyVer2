@@ -7,14 +7,14 @@
 .title {
    font-size: 10vh;
    color: var(--text-primary);
-   font-family: "Inter", sans-serif;
+   font-family: "Comic Sans MS", sans-serif;
    text-align: center;
-   text-transform: uppercase;
+   text-transform: uppercase, lowercase;
    border-radius: 0px 0px 5px 5px;
    margin-top: 30vh;
    margin-bottom: 5vh;
    transition: 0.35s ease;
-   text-shadow: 2px 4px 6px rgb(0, 0, 0, 0.2);
+   text-shadow: 2px 4px 6px rgba(0, 0, 0, 1);
 }
 
 .title:hover {
@@ -28,7 +28,7 @@
       top: -10vw;
       font-size: 10vw;
       color: var(--text-primary);
-      font-family: "Inter", sans-serif;
+      font-family: "Poppins", sans-serif;
       text-align: center;
       text-transform: uppercase;
       border-radius: 0px 0px 5px 5px;
